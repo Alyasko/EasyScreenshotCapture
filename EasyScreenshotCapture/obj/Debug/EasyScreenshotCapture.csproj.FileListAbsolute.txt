@@ -1,0 +1,9 @@
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\bin\Debug\EasyScreenshotCapture.exe.config
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\bin\Debug\EasyScreenshotCapture.exe
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\bin\Debug\EasyScreenshotCapture.pdb
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\obj\Debug\EasyScreenshotCapture.csprojResolveAssemblyReference.cache
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\obj\Debug\EasyScreenshotCapture.Form1.resources
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\obj\Debug\EasyScreenshotCapture.Properties.Resources.resources
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\obj\Debug\EasyScreenshotCapture.csproj.GenerateResource.Cache
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\obj\Debug\EasyScreenshotCapture.exe
+D:\Projects\EasyScreenshotCapture\EasyScreenshotCapture\obj\Debug\EasyScreenshotCapture.pdb
